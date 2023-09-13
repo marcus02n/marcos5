@@ -1,1 +1,4 @@
-alert('ola mundo');
+function tocaSomPom(){
+
+}
+document.querySelector('.tecla_pom');
